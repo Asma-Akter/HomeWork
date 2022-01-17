@@ -22,4 +22,4 @@ public class AboutMe {
 				+ aboutMe.allData);
 	}
 }
-//check
+
